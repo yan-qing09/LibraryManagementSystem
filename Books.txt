@@ -1,0 +1,4 @@
+B001, To Kill a Mocking bird, HarperLee, Fiction, true
+B002, 1984, George Orwell, Dystopian, true
+B003, The Great Gatsby, F.ScottFitzgerald, Classic, false
+B004, The Catcher in the Rye, J.D.Salinger, Fiction, true

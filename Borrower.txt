@@ -1,0 +1,4 @@
+michael_brown	pass123		michael@example.com	BOR001	Student
+lisa_white	pass456		lisa@example.com	BOR002	Lecturer
+karen_black	pass789		karen@example.com	BOR003	Student
+james_green	pass111		james@example.com	BOR004	Student

@@ -1,0 +1,2 @@
+john_doe	s123	john.doe@example.com	LIB001
+jane_smith	s345	jane.smith@example.com	LIB002
